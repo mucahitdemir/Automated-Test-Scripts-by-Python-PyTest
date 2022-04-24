@@ -4,13 +4,11 @@
 
 The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries
 
-A quick example
+Why use PyTest?
 
-## content of test_sample.py
----
-def inc(x):
-    return x + 1
-    
-def test_answer():
-    assert inc(3) == 5
- 
+- Very easy to start with because of its simple and easy syntax.
+- Can run tests in parallel.
+- Can run a specific test or a subset of tests
+- Automatically detect tests
+- Skip tests
+- Open source
