@@ -16,3 +16,7 @@ Why use PyTest?
 ## Unit Test
 A unit test is a way of testing a unit - the smallest piece of code that can be logically isolated in a system. 
 In most programming languages, that is a function, a subroutine, a method or property. The isolated part of the definition is important.
+
+## Automated Test Scripts
+An automated test script is the next level, where the script programmatically performs the setup and validation all on its own. 
+Turning your test script into an automated test script can save time, reduce error and serve as documentation for your software
